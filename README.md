@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @IvaVangelova
-
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.facebook.com/profile.php?id=100094179332216
   
 
