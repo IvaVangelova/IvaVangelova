@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IvaVangelova
 - 🌱 I’m currently learning Python
-- 📫 How to reach me https://www.facebook.com/profile.php?id=100094179332216
+- 📫 How to reach me: iva.y.vangelova@gmail.com
   
 
 <!---
